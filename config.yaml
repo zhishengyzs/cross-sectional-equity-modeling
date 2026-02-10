@@ -1,0 +1,8 @@
+data_dir: data
+output_tables: outputs/tables
+output_figures: outputs/figures
+train_window_months: 36
+horizon_days: 20
+top_k: 5
+model: ridge
+alpha: 1.0
