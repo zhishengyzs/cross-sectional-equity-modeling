@@ -1,6 +1,6 @@
 # Rolling Cross-Sectional Strategy - 50 NASDAQ Stocks
 
-A quantitative trading strategy that uses rolling cross-sectional OLS regression to predict stock returns and select top-performing stocks from a universe of 50 NASDAQ stocks.
+A quantitative trading strategy that uses rolling cross-sectional Ridge regression to predict stock returns and select top-performing stocks from a universe of 50 NASDAQ stocks.
 
 ## Quickstart
 
